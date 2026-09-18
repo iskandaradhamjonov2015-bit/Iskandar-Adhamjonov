@@ -1,0 +1,6 @@
+{
+  "name": "Menga 3 Tasi Birda: Ingliz tili, Rus tili & Matematika",
+  "description": "Ingliz tili (120 dars, 290k so'zli talaffuzli lug'at), Rus tili (120 dars, 290k so'zli lug'at), Matematika (120 dars, formulalar, bosqichma-bosqich yechuvchi kalkulyator), testlar, 5/4/3 baholash va XP tizimi, foydalanuvchi profili va rasm yuklash.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
